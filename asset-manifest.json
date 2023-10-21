@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.ec6982db.css",
-    "main.js": "/static/js/main.aabd8b13.js",
-    "static/media/yt-logo-mobile.png": "/static/media/yt-logo-mobile.7e67cd801ac3213983ff.png",
-    "static/media/yt-logo.png": "/static/media/yt-logo.7f0ef679192b39fc2960.png",
-    "index.html": "/index.html",
-    "main.ec6982db.css.map": "/static/css/main.ec6982db.css.map",
-    "main.aabd8b13.js.map": "/static/js/main.aabd8b13.js.map"
+    "main.css": "/Youtube-Clone-React/static/css/main.ec6982db.css",
+    "main.js": "/Youtube-Clone-React/static/js/main.53e52e1d.js",
+    "static/media/yt-logo-mobile.png": "/Youtube-Clone-React/static/media/yt-logo-mobile.7e67cd801ac3213983ff.png",
+    "static/media/yt-logo.png": "/Youtube-Clone-React/static/media/yt-logo.7f0ef679192b39fc2960.png",
+    "index.html": "/Youtube-Clone-React/index.html",
+    "main.ec6982db.css.map": "/Youtube-Clone-React/static/css/main.ec6982db.css.map",
+    "main.53e52e1d.js.map": "/Youtube-Clone-React/static/js/main.53e52e1d.js.map"
   },
   "entrypoints": [
     "static/css/main.ec6982db.css",
-    "static/js/main.aabd8b13.js"
+    "static/js/main.53e52e1d.js"
   ]
 }
